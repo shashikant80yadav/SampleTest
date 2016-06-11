@@ -1,0 +1,4 @@
+FBLoginDemo.MainActivity, FBLoginDemo;md54bbe741e810ba7c513e9034da10b0b08.MainActivity
+FBLoginDemo.MainActivity, FBLoginDemo, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md54bbe741e810ba7c513e9034da10b0b08.MainActivity
+FBLoginDemo.MainActivity;md54bbe741e810ba7c513e9034da10b0b08.MainActivity
+fblogindemo.MainActivity;md54bbe741e810ba7c513e9034da10b0b08.MainActivity

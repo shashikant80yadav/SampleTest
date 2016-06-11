@@ -1,0 +1,9 @@
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\FBLoginDemo.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\Mono.Android.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\mscorlib.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\System.Core.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\System.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\System.Xml.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\System.Xml.Linq.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\System.Runtime.Serialization.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\assemblies\System.ServiceModel.Internals.dll

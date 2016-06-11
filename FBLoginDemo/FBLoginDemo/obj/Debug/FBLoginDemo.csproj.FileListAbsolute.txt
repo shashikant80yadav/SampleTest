@@ -1,0 +1,14 @@
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Debug\FBLoginDemo.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Debug\FBLoginDemo.pdb
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Debug\FBLoginDemo.FBLoginDemo.apk
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Debug\FBLoginDemo.FBLoginDemo-Signed.apk
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\FBLoginDemo.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\FBLoginDemo.pdb
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\android\bin\FBLoginDemo.FBLoginDemo.apk
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\res\layout\main.xml
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\res\values\strings.xml
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\res\drawable\icon.png
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\R.cs.flag
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\uploadflags.txt
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Debug\FBLoginDemo.dll.mdb
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Debug\FBLoginDemo.dll.mdb

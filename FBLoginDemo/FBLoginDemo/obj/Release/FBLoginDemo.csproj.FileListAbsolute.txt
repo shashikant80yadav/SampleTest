@@ -1,0 +1,16 @@
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Release\FBLoginDemo.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Release\FBLoginDemo.pdb
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Release\com.successive.fblogindemo.apk
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Release\com.successive.fblogindemo-Signed.apk
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Release\Facebook.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\FBLoginDemo.dll
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\FBLoginDemo.pdb
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\android\bin\com.successive.fblogindemo.apk
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\res\layout\main.xml
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\res\values\strings.xml
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\res\drawable\icon.png
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\R.cs.flag
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\uploadflags.txt
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\FBLoginDemo.csprojResolveAssemblyReference.cache
+E:\Demo\FBLoginDemo\FBLoginDemo\obj\Release\FBLoginDemo.dll.mdb
+E:\Demo\FBLoginDemo\FBLoginDemo\bin\Release\FBLoginDemo.dll.mdb
